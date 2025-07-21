@@ -47,6 +47,10 @@ Salary-Prediction-using-Machine-Learning/
 └── README.md                        # Project documentation
 ```
 
+## SnapShots
+
+<img width="1607" height="766" alt="Screenshot 2025-07-22 001612" src="https://github.com/user-attachments/assets/c15453a3-5be9-46a7-812b-8203bbfca6db" />
+
 ## Getting Started
 ### Prerequisites
 - Python 3.7+
